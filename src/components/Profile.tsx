@@ -8,7 +8,10 @@ const Profile: React.FC = () => {
       <img src="https://github.com/derek-alves.png" alt="imagem de perfil" />
       <div>
         <strong>Derek Enrique</strong>
-        <p>Level 1</p>
+        <p>
+          <img src="icons/level.svg" alt="level" />
+          Level 1
+        </p>
       </div>
     </div>
   );
